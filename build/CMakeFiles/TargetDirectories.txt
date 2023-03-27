@@ -1,0 +1,3 @@
+C:/Users/5003020/OneDrive - Envista/_MyPCFiles/Desktop/OTUS/homework/testi/build/CMakeFiles/guess_number.dir
+C:/Users/5003020/OneDrive - Envista/_MyPCFiles/Desktop/OTUS/homework/testi/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/5003020/OneDrive - Envista/_MyPCFiles/Desktop/OTUS/homework/testi/build/CMakeFiles/ZERO_CHECK.dir
