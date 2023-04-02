@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\5003020\OneDrive - Envista\_MyPCFiles\Desktop\OTUS\homework\6_homework\linked_container.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\5003020\OneDrive - Envista\_MyPCFiles\Desktop\OTUS\homework\6_homework\sequential_container.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\5003020\OneDrive - Envista\_MyPCFiles\Desktop\OTUS\homework\6_homework\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\5003020\OneDrive - Envista\_MyPCFiles\Desktop\OTUS\homework\6_homework\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6DE05A4B-AC7C-325D-8635-95BED4BC6D31}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
