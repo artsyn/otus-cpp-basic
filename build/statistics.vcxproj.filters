@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\5003020\OneDrive - Envista\_MyPCFiles\Desktop\OTUS\homework\05.homework-12995-fe119a\05.homework\statistics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\5003020\OneDrive - Envista\_MyPCFiles\Desktop\OTUS\homework\05.homework-12995-fe119a\05.homework\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1555D7FD-93BE-38A4-ACBE-A8992F3099DC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
