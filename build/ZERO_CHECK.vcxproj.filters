@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\5003020\OneDrive - Envista\_MyPCFiles\Desktop\OTUS\homework\008_homework\build\CMakeFiles\551f31f0f9177952ad18274c936e5d35\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4732D8CE-94EB-3056-B70E-6ED53E7639F6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
