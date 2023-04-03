@@ -1,0 +1,2 @@
+C:\Users\5003020\OneDrive - Envista\_MyPCFiles\Desktop\OTUS\homework\07_homework\build\Release\gtest.dll
+C:\Users\5003020\OneDrive - Envista\_MyPCFiles\Desktop\OTUS\homework\07_homework\build\ContainersTests.dir\Release\ContainersTests.vcxproj.CopyComplete

@@ -1,0 +1,10 @@
+^C:\USERS\5003020\ONEDRIVE - ENVISTA\_MYPCFILES\DESKTOP\OTUS\HOMEWORK\07_HOMEWORK\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/5003020/OneDrive - Envista/_MyPCFiles/Desktop/OTUS/homework/07_homework" "-BC:/Users/5003020/OneDrive - Envista/_MyPCFiles/Desktop/OTUS/homework/07_homework/build" --check-stamp-file "C:/Users/5003020/OneDrive - Envista/_MyPCFiles/Desktop/OTUS/homework/07_homework/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

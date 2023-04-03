@@ -1,0 +1,10 @@
+^C:\USERS\5003020\ONEDRIVE - ENVISTA\_MYPCFILES\DESKTOP\OTUS\HOMEWORK\07_HOMEWORK\BUILD\CMAKEFILES\55BCD87FDE8173F0B36BBEBA73CECAE1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/5003020/OneDrive - Envista/_MyPCFiles/Desktop/OTUS/homework/07_homework" "-BC:/Users/5003020/OneDrive - Envista/_MyPCFiles/Desktop/OTUS/homework/07_homework/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/5003020/OneDrive - Envista/_MyPCFiles/Desktop/OTUS/homework/07_homework/build/ContainersTests.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

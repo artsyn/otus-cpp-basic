@@ -1,0 +1,8 @@
+C:/Users/5003020/OneDrive - Envista/_MyPCFiles/Desktop/OTUS/homework/07_homework/build/CMakeFiles/ContainersTests.dir
+C:/Users/5003020/OneDrive - Envista/_MyPCFiles/Desktop/OTUS/homework/07_homework/build/CMakeFiles/Experimental.dir
+C:/Users/5003020/OneDrive - Envista/_MyPCFiles/Desktop/OTUS/homework/07_homework/build/CMakeFiles/Nightly.dir
+C:/Users/5003020/OneDrive - Envista/_MyPCFiles/Desktop/OTUS/homework/07_homework/build/CMakeFiles/Continuous.dir
+C:/Users/5003020/OneDrive - Envista/_MyPCFiles/Desktop/OTUS/homework/07_homework/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/5003020/OneDrive - Envista/_MyPCFiles/Desktop/OTUS/homework/07_homework/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/5003020/OneDrive - Envista/_MyPCFiles/Desktop/OTUS/homework/07_homework/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/5003020/OneDrive - Envista/_MyPCFiles/Desktop/OTUS/homework/07_homework/build/CMakeFiles/ZERO_CHECK.dir
