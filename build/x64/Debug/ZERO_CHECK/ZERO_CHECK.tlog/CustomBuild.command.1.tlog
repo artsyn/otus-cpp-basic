@@ -1,0 +1,10 @@
+^C:\USERS\5003020\ONEDRIVE - ENVISTA\_MYPCFILES\DESKTOP\OTUS\HOMEWORK\0001_COURSE\BUILD\CMAKEFILES\139C6A34575A01664C86BCBA3BB17513\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/5003020/OneDrive - Envista/_MyPCFiles/Desktop/OTUS/homework/0001_course" "-BC:/Users/5003020/OneDrive - Envista/_MyPCFiles/Desktop/OTUS/homework/0001_course/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/5003020/OneDrive - Envista/_MyPCFiles/Desktop/OTUS/homework/0001_course/build/tictactoe.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

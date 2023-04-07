@@ -1,0 +1,3 @@
+C:/Users/5003020/OneDrive - Envista/_MyPCFiles/Desktop/OTUS/homework/0001_course/build/CMakeFiles/tictactoe.dir
+C:/Users/5003020/OneDrive - Envista/_MyPCFiles/Desktop/OTUS/homework/0001_course/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/5003020/OneDrive - Envista/_MyPCFiles/Desktop/OTUS/homework/0001_course/build/CMakeFiles/ZERO_CHECK.dir
